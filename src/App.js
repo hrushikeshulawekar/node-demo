@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This cicd pipeline app demo - it is version 3.
+          This cicd pipeline app demo.
         </p>
         <a
           className="App-link"
