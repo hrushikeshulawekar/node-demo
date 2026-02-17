@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This cicd pipeline app demo - LoadBalancer check.
+          This cicd pipeline app demo - NodePort back.
         </p>
         <a
           className="App-link"
