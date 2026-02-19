@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          cicd pipeline - lets check now.
+          cicd pipeline - let's call it a day.
         </p>
         <a
           className="App-link"
