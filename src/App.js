@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          cicd pipeline --status= confirmed 13/3/2026 | All ok.
+          cicd pipeline --status= confirmed 14/3/2026 | Checked - ok.
         </p>
         <a
           className="App-link"
