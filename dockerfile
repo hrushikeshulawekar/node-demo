@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["node", "server.js"]    ← change this line
+CMD ["npm", "start"]    ← change this line
