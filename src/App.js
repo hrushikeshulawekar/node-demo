@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          cicd pipeline --status -confirmed 07/06/2026
+          call it a day, confirmed on 27-02-2026.
         </p>
-        
+        <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
